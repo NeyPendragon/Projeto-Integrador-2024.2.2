@@ -5,5 +5,6 @@ Este trabalho apresenta o desenvolvimento do aplicativo **GeriMind**, uma soluç
 
 Desenvolvido como **trabalho de conclusão da matéria Projeto Integrador** do curso de **Análise e Desenvolvimento de Sistemas (ADS)** do **Senac**, o GeriMind priorizou a acessibilidade e a usabilidade, utilizando metodologias ágeis como o **Scrum**. O projeto destaca a importância de soluções práticas e acessíveis para lidar com os desafios do envelhecimento populacional, contribuindo para um cuidado mais eficiente e humanizado.
 
-testando
+**Visite nosso projeto online aqui**: https://mathaulas.net/TADS/sections/inicio.php
+
 
